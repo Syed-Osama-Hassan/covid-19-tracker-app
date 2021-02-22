@@ -1,3 +1,13 @@
+# Concepts used
+
+- Material-UI
+- useEffect
+- Chart
+
+# Website Link
+
+https://covid-19-tracker-app-project.surge.sh/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
